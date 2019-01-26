@@ -1,4 +1,4 @@
-package Dwukierunkowa;
+package strukturyDanych.Dwukierunkowa;
 
 public class KolejList {
 

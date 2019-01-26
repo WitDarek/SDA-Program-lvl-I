@@ -1,3 +1,5 @@
+package strukturyDanych;
+
 public class Zadanie_1 {
     public static void main(String[] args) {
         int tab[] = {4, 7, 2, 6, 5, 9, 3, 12};

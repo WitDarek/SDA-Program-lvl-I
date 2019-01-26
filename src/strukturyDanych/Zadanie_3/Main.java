@@ -1,6 +1,6 @@
-package Zadanie_3;
+package strukturyDanych.Zadanie_3;
 
-import Zadanie_3.Zadanie_ONP.ONP;
+import strukturyDanych.Zadanie_3.Zadanie_ONP.ONP;
 
 import java.util.Scanner;
 

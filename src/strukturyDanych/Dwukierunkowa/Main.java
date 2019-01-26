@@ -1,4 +1,4 @@
-package Dwukierunkowa;
+package strukturyDanych.Dwukierunkowa;
 
 import java.util.Scanner;
 

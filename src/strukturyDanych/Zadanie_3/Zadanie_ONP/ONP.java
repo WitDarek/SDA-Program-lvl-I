@@ -1,7 +1,7 @@
-package Zadanie_3.Zadanie_ONP;
+package strukturyDanych.Zadanie_3.Zadanie_ONP;
 
-import Zadanie_3.StosLista;
-import Zadanie_3.StosListaOutOfIndex;
+import strukturyDanych.Zadanie_3.StosLista;
+import strukturyDanych.Zadanie_3.StosListaOutOfIndex;
 
 public class ONP {
     public ONP(){

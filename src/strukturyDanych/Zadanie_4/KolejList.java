@@ -1,4 +1,4 @@
-package Zadanie_4;
+package strukturyDanych.Zadanie_4;
 
 public class KolejList {
     private KolejElem first;

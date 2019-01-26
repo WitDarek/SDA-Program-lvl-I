@@ -1,4 +1,4 @@
-package Zadanie_2;
+package strukturyDanych.Zadanie_2;
 
 import java.util.Scanner;
 

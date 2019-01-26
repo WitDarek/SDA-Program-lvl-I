@@ -1,4 +1,4 @@
-package Zadanie_3;
+package strukturyDanych.Zadanie_3;
 
 public class StosElem {
     private int value;

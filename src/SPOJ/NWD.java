@@ -15,6 +15,8 @@ public class NWD {
             a=scanner.nextInt ();
             b=scanner.nextInt ();
             System.out.println (nwd(a,b));
+
+//            System.out.println (nwdRekurencja (a,b));
         }
     }
 
@@ -27,5 +29,11 @@ public class NWD {
         }
         return a;
     }
+// Metoda rekurencuja:
+//    public  static int nwdRekurencja (int a, int b){
+//        while (b!=0)
+//            nwdRekurencja (b,a%b);
+//        return a;
+//    }
 
 }

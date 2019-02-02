@@ -37,8 +37,9 @@ public class CALC {
         int i=0;
         Scanner scanner = new Scanner (System.in);
 
-        while (i<test) {        // mozna zrobic to scanner.nextLine czyli jak nie ma następnej lini to wychodzi z petli
-            znak = scanner.next ();
+        while (scanner.hasNext ()) {        // mozna zrobic to scanner.nextLine czyli jak nie ma następnej lini to wychodzi z petli
+            znak = scanner.nextLine ();
+
             switch (znak) {
                 case "+":
                     a = scanner.nextInt ();

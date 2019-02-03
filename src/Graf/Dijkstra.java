@@ -53,7 +53,7 @@ public class Dijkstra {
                 if(!visitedTab[idD]&&(wS+wD<distanceTab[idD])){
                     distanceTab[idD]= wS +wD;
                     sourceTab[idD]=idS;
-                    priorityQueue.add(new Vertex (idD,distanceTab[idS]));
+                    priorityQueue.add(new Vertex (idD,distanceTab[idD]));
                 }
 
             }
